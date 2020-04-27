@@ -61,7 +61,7 @@ eventDate: ""
 typeoutTextValues: '"Auckland"'
 typeoutFallback: "Auckland"
 heroButtons:
- - {link: "", text: "Next ResBaz: Mid 2020"}
+ - {link: "", text: "Next ResBaz: November 2020"}
 
 # About Block
 aboutTitle: "About ResBaz Auckland"
