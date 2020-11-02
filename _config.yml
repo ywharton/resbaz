@@ -44,10 +44,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
+#  - {permalink: "/blog/", text: "Blog"}
+#  - {permalink: "/schedule/", text: "Schedule"}
+#  - {permalink: "/speakers/", text: "Speakers"}
+#  - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "mailto:researchdata@auckland.ac.nz", text: "Contact us"}
@@ -56,21 +56,21 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "ResBaz : <typeout>"
+heroTitle: "ResBaz 2020: <typeout>"
 eventDate: ""
-typeoutTextValues: '"Auckland"'
-typeoutFallback: "Auckland"
+typeoutTextValues: "'Pick n Mix'"
+typeoutFallback: "'Pick n Mix'"
 heroButtons:
- - {link: "", text: "Next ResBaz: November 2020"}
+ - {link: "", text: "Online sessions: 23-27 November"}
 
 # About Block
-aboutTitle: "About ResBaz Auckland"
+aboutTitle: "About ResBaz 2020 'Pick n Mix' Edition"
 aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2019, events will be held at a number of university campuses around the globe.</p>
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. We LOVE the usual 3-day cohort event full of digital skills, workshops, social activities and amazing food. However, we’ve had to adapt the event this year!</p>
 
-<p>Hosted by the University of Auckland, the 2019 Auckland Research Bazaar is a (free-of-charge) 3-day intensive conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Our ResBaz 2020 will offer an opportunity for researchers come together virtually to up-skill in ‘next generation digital research tools and skill’ through a series of brief online workshops sessions - a ‘Pick n Mix’.  Sessions this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across disciplines.</p>
 
-<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
+<p>A collaboration between the University of Auckland and Victoria University of Wellington,  we welcome researchers at ALL levels from ALL disciplines to <b>register for individual sessions</b>. Research technologists who support researchers to do their job should also come along!</p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
