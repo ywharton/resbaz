@@ -1,44 +1,96 @@
+###Add a link <a href=\"https://www.library.auckland.ac.nz/workshops/?p=view_workshop&id=2360/\">Booking here</a> 
 - 
   id: 100
-  title: "Keystory - Kindness In Science"
+  title: "Keystory"
   description: 
-  speakers: [0, 1, 8]
+  speakers: []
+  hidden: true
+
+- 
+  id: 101
+  title: "Keystory"
+  description: 
+  speakers: []
+  hidden: true
+
+- 
+  id: 102
+  title: "Keystory"
+  description: 
+  speakers: []
+  hidden: true
+- 
+  id: 103
+  title: "Keystory"
+  description: 
+  speakers: []
+  hidden: true
+- 
+  id: 104
+  title: "Keystory"
+  description: 
+  speakers: [0]
+  hidden: true
+- 
+  id: 200
+  title: "Break"
+  description: 
+  speakers: []
+  hidden: true
+
+- 
+  id: 201
+  title: "Lunch"
+  description: 
+  speakers: []
+  hidden: true
+
+- 
+  id: 300
+  title: "to be announced"
+  description: 
+  speakers: []
   hidden: true
 -
   id: 001
+  title: "Research Data Management (Part 1): Planning, Organising & Storing"
+  description: "Research data: that which is created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will develop strategies for capturing and organising research data, sharing and reusing data, and have an opportunity to draft a Data Management Plan (DMP).You will be introduced to data management concepts, best practices, services and useful tools to support you managing and sharing your research data. <a href=\"https://www.library.auckland.ac.nz/workshops/?p=view_workshop&id=2360/\">Booking here</a> "
+  subtype: workshop
+  speakers: [13, 14]
+  complexity: "Beginner, all welcome" 
+  
+-
+  id: 002
+  title: "Crash course in LaTeX using Overleaf"
+  description: "This is a 'Bring your own device' session. Learn the basics of LaTeX and Overleaf in this workshop. We will create a template that you can use for both articles and a thesis."
+  subtype: workshop
+  speakers: [27]
+  complexity: "Beginner" 
+  presentation: "https://tofu.dev/workshops/latex"
+# -
+#   id: 003
+#   title: "Version control and collaboration tools - Intro to Git and GitHub"
+#   description: "This session will offer a brief and practical introduction to <a href=\"https://git-scm.com/\">Git</a> and <a href=\"https://github.com/\">GitHub</a> for complete beginners. Learn how you can use Git to manage and keep track of different versions of all your important files and documents that change through time in your projects. GitHub is one of the worlds leading online collaboration platforms for working on projects that use Git. Whether you write code or not, Git and GitHub are incredibly powerful tools that should be part of any researchers digital toolkit. Come and see what it's all about!"
+#   subtype: workshop
+#   speakers: [10, 12]
+#   complexity: "Beginner" 
+-
+  id: 004
   title: "Research Data Management (Part 2): Sharing, Publishing & Archiving"
   description: "Come along to this workshop to learn about how you can share, publish, and archive your research data; increase your research impact through data publication; learn about services available to you to achieve this.  <a href=\"https://www.library.auckland.ac.nz/workshops/?p=view_workshop&id=2360/\">Booking here</a> "
   subtype: workshop
   speakers: [13,14]
   complexity: "Beginner, all welcome"
 -
-  id: 002
-  title: "Crash course in LaTeX using Overleaf"
-  description: "This is a 'Bring your own device' session. Learn the basics of LaTeX and Overleaf in this workshop. We will create a template that you can use for both articles and a thesis."
-  subtype: workshop
-  speakers: [11, 12, 13]
-  complexity: "Beginner" 
-  presentation: "https://tofu.dev/workshops/latex"
--
-  id: 003
-  title: "Version control and collaboration tools - Intro to Git and GitHub"
-  description: "This session will offer a brief and practical introduction to <a href=\"https://git-scm.com/\">Git</a> and <a href=\"https://github.com/\">GitHub</a> for complete beginners. Learn how you can use Git to manage and keep track of different versions of all your important files and documents that change through time in your projects. GitHub is one of the worlds leading online collaboration platforms for working on projects that use Git. Whether you write code or not, Git and GitHub are incredibly powerful tools that should be part of any researchers digital toolkit. Come and see what it's all about!"
-  subtype: workshop
-  speakers: [10, 12]
-  complexity: "Beginner" 
--
-  id: 004
-  title: "Research Data Management (Part 1): Planning, Organising & Storing"
-  description: "Research data: that which is created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will develop strategies for capturing and organising research data, sharing and reusing data, and have an opportunity to draft a Data Management Plan (DMP).You will be introduced to data management concepts, best practices, services and useful tools to support you managing and sharing your research data. <a href=\"https://www.library.auckland.ac.nz/workshops/?p=view_workshop&id=2360/\">Booking here</a> "
-  subtype: workshop
-  speakers: [13, 14]
-  complexity: "Beginner, all welcome" 
--
   id: 005
-  title: "NeCTAR Research Cloud"
-  description: "This is a 'Bring your own device' session. Do your computations take too long on your laptop? Do you want to offload long-running simulations to a different computer? Are there computations you cannot run on your desktop because you don't have enough memory or compute power? Would you be interested in easily reproducing existing data compute workflows for your use, or easily creating your own? You’re invited to attend a workshop for researchers wanting a practical introduction into using the NeCTAR Research Cloud! We’ll provide an introduction to using NeCTAR, all the basic tools you need to know to run your first cloud computer and demonstrate how you can use NeCTAR to help achieve your research and data analysis objectives."
+  title: "Introduction to Nectar virtual machines (- UoA only)"
+  description: "Is your desktop/laptop struggling to perform research analysis?<br /><br /> 
+  Using a virtual machine could help.<br /><br /> 
+  The Centre for eResearch is offering a 1-hour online workshop and practical session to enable University of Auckland researchers to use Nectar Research Cloud (virtual machines).<br /><br /> 
+  This session is ideal for those considering or starting to use Nectar Research Cloud, presenters will provide practical instruction on getting an allocation and setting up a Windows virtual machine.<br /><br /> 
+  Please register with your University of Auckland email address. <a href=\"https://www.eventbrite.com/e/introduction-to-nectar-virtual-machines-tickets-124377936757/\">Link for description</a> "
   subtype: workshop
-  speakers: [15, 16, 17]
+  speakers: [22]
   complexity: "TBC" 
 -
   id: 006
@@ -55,27 +107,14 @@
   speakers: [13, 14]
   complexity: "Attendance to earlier Research Data Mamgement workshop is recommended." 
 -
-  id: 008
+  id: 010
   title: "Tidy data and introduction to OpenRefine"
   description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers need it. Since this is where most research projects start, this is where we want to start too!<br /><br /> 
-
   Preparing data for analysis is an important part of the research workflow. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent. OpenRefine is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. This lesson will teach you to use OpenRefine to effectively clean and format data and automatically track any changes that you make. Many people comment that this tool saves them literally months of work trying to make these edits by hand."
   subtype: workshop
   speakers: [19]
   complexity: "Beginner" 
-# -
-  # id: 009
-  # title: "What tools should I use in my bioinformatics research? (Rm:130)"
-  # description: "Is your research in a bioinformatics-related field? Are you wondering if ResBaz is any good for you? Or do you want to know what sessions are suitable for your research? This session highlights how tools like python, SQL, R and GitHub were used to answer a research question. It is meant to give a quick overview of the skills taught at ResBaz so you know exactly what sessions are most suitable for your needs."
-  # speakers: [20]
-  # complexity: "Beginner" 
-# -
-  # id: 010
-  # title: "Busting the Supercomputing Jargon (Rm:G30)"
-  # description: "Core? CPU? SSH? WTF? This is a fun, interactive activity where we will explore what terminology YOU think makes High Performance Computing (HPC) so darn difficult to understand. You might be learning about HPC for the first time or want to know more about specific tools you are using for your research (Bash, parallel computing, machine learning, etc…) Either way, this session is for you! All knowledge levels and all disciplines are welcome to attend."
-  # subtype: workshop
-  # speakers: [23]
-  # complexity: "Beginner" 
+
 -
   id: 011
   title: "Introduction to Linux command line (the shell)"
@@ -157,21 +196,22 @@
   description: "Do your computations take too long on your laptop or desktop computer? Do you want to offload long-running simulations to a different computer? Are there computations you cannot run on your desktop because you don't have enough memory or compute power? In this workshop we give an overview of the options you have. We will cover the computer clusters of the New Zealand eScience Infrastructure (NeSI), the Research Virtual Machine Farm, and the Nectar Research Cloud."
   subtype: workshop
   speakers: [17]
+  complexity: "Be
+  ginners" 
+-
+  id: 031
+  title: "Data Analysis with Jupyter Notebooks:"
+  description: "Jupyter Notebooks are an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. This session will give an overview of how and why these notebooks can be useful for research and analysis, and how you can unlock the power of the functionality they offer."
+  subtype: workshop
+  speakers: [10]
   complexity: "Beginners" 
-# -
-  # id: 031
-  # title: "The Publishing Trap (Rm:G30)"
-  # description: "The Publishing Trap is a board game that allows players to explore the impact of scholarly communication choices and players discuss the role of open access in research by following the lives of four researchers – from doctoral research to their academic legacies.<br /><br /> 
-
-  # Played in teams, the Publishing Trap is aimed at early career researchers and academics, as well as anyone who has a vested interest in understanding how access to information works and how the whole scholarly communication system in higher education operates. The game is designed to encourage you to make informed choices when signing publishing contracts and submitting work to the institutional repository."
-  # speakers: [22, 28]
-# -
-#   id: 032
-#   title: "Demystifying Data Transfer (Rm:110)"
-#   description: "To be announced." 
-#   subtype: workshop
-#   speakers: [44, 19]
-#   complexity: "Beginner" 
+-
+  id: 032
+  title: "Literature reviews with NVivo"
+  description: "Reviewing the literature is an important part of the research process. Organising relevant papers and findings are more than just data entry or bibliographic tasks, you also need to be able to analyse and integrate this material with the qualitative data you are gathering. This one-hour demonstration will provide an overview of NVivo’s functionality with regard to literature reviews. Importing and coding literature, running queries on published material, and working with bibliographic data in conjunction with your NVivo project will all be covered." 
+  subtype: workshop
+  speakers: [36]
+  complexity: "Beginner" 
 -
   id: 033
   title: "Less is more: creating infographics"
@@ -226,4 +266,66 @@
   description: "Use open source tools to create interactive narratives and visualisations for your research. Overview of a range of free, easy-to-use interactive tools useful for time or location-based narratives. Learn the basics with the option to explore more advanced features. There'll be two sessions focussing on these tools. The day one session will provide an overview of the tools and possible research applications. The hands-on session on the second day will see participants create their own digital narratives using the toolsuite. Possible assets to use here."
   subtype: workshop
   speakers: [38]
+  complexity: "All welcome" 
+
+  # -
+  # id: 009
+  # title: "What tools should I use in my bioinformatics research? (Rm:130)"
+  # description: "Is your research in a bioinformatics-related field? Are you wondering if ResBaz is any good for you? Or do you want to know what sessions are suitable for your research? This session highlights how tools like python, SQL, R and GitHub were used to answer a research question. It is meant to give a quick overview of the skills taught at ResBaz so you know exactly what sessions are most suitable for your needs."
+  # speakers: [20]
+  # complexity: "Beginner" 
+# -
+  # id: 010
+  # title: "Busting the Supercomputing Jargon (Rm:G30)"
+  # description: "Core? CPU? SSH? WTF? This is a fun, interactive activity where we will explore what terminology YOU think makes High Performance Computing (HPC) so darn difficult to understand. You might be learning about HPC for the first time or want to know more about specific tools you are using for your research (Bash, parallel computing, machine learning, etc…) Either way, this session is for you! All knowledge levels and all disciplines are welcome to attend."
+  # subtype: workshop
+  # speakers: [23]
+  # complexity: "Beginner" 
+-
+  id: 043
+  title: "Data publishing tips and Q&A - drop-in session"
+  description: "Pop by for an overview on data publishing  - why, what, where and how. Bring along your questions"
+  subtype: workshop
+  speakers: [14,38]
+  complexity: "All welcome" 
+
+-
+  id: 044
+  title: "Workshop: Introduction to Open Refine (3-hour seesion)"
+  description: "OpenRefine is a free, open-source powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, follow-along workshop will demonstrate how it can help you:
+  Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources"
+  subtype: workshop
+  speakers: [9]
+  complexity: "All welcome" 
+
+-
+  id: 045
+  title: "Introduction to Python"
+  description: ""
+  subtype: workshop
+  speakers: [22]
+  complexity: "All welcome" 
+
+-
+  id: 046
+  title: "Workshop: Topic Modelling with Tidy TOPAN (3-hour session)"
+  description: "Introductory follow-along workshop on Topic Modelling, using Tidy ToPān. ToPān is Topic-Modelling for everyone: from people without programming knowledge to people that want to build teaching and text-reuse tools and apps based on Topic-Modelling data without having to develop their own tool or having to majorly restructure their textual data. <a href=\"https://github.com/ThomasK81/tidyToPan/tree/1.0.0#installing-it\">Installation instructions</a>"
+  subtype: workshop
+  speakers: [35]
+  complexity: "All welcome" 
+
+-
+  id: 047
+  title: "Research Portfolio website"
+  description: "Learn how to create a website to showcase your research outputs using GitHub and wowchemy"
+  subtype: workshop
+  speakers: [38]
+  complexity: "All welcome" 
+
+-
+  id: 050
+  title: "Introduction to Topic Modelling"
+  description: "Topic modeling is a frequently used tool for discovering hidden structures in text-based material. Learn how it's used in a range of research contexts, including the digital humanities and social sciences."
+  subtype: workshop
+  speakers: [35]
   complexity: "All welcome" 
