@@ -27,8 +27,9 @@
   hidden: true
 - 
   id: 104
-  title: "Keystory"
-  description: 
+  title: "Key story - Exploring the cultural horizons of open science: your research and your life"
+  description: "Open science is a lot more than open access. Sci-hub is not the goal. Open science unfolds new demands for culture change in the academy; it builds a new pathway toward more generous and joyful research practices and outcomes. Science is too consequential to be colonized by the neoliberal marketplace. 
+  I will open up a conversation about an alternative open science economy, and about the shared cultural practices—past and future science norms—that can make all of our research collectively better, quicker, more rigorous, and a lot more fun. From the infinite game of science—which you get to be paid to play—to the fierce equality of future global research that puts everyone’s work on a planetary stage: open science has really just begun (and Sci-hub is still kinda cool). Background content is available <a href=\"https://junanaguy.medium.com/\">here</a>."
   speakers: [0]
   hidden: true
 - 
@@ -54,7 +55,7 @@
 -
   id: 001
   title: "Research Data Management (Part 1): Planning, Organising & Storing"
-  description: "Research data: that which is created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will develop strategies for capturing and organising research data, sharing and reusing data, and have an opportunity to draft a Data Management Plan (DMP).You will be introduced to data management concepts, best practices, services and useful tools to support you managing and sharing your research data. <a href=\"https://www.library.auckland.ac.nz/workshops/?p=view_workshop&id=2360/\">Booking here</a> "
+  description: "Research data: that which is created, collected or observed in the course of producing original research, regardless of format. This introductory workshop is aimed at researchers, particularly those embarking on their research career or starting a new research project. Attendees will develop strategies for capturing and organising research data, sharing and reusing data, and have an opportunity to draft a Data Management Plan (DMP). You will be introduced to data management concepts, best practices, services and useful tools to support you managing and sharing your research data. <a href=\"https://www.library.auckland.ac.nz/workshops/?p=view_workshop&id=2360/\">Booking here</a> "
   subtype: workshop
   speakers: [13, 14]
   complexity: "Beginner, all welcome" 
@@ -76,10 +77,10 @@
 #   complexity: "Beginner" 
 -
   id: 004
-  title: "Research Data Management (Part 2): Sharing, Publishing & Archiving"
-  description: "Come along to this workshop to learn about how you can share, publish, and archive your research data; increase your research impact through data publication; learn about services available to you to achieve this.  <a href=\"https://www.library.auckland.ac.nz/workshops/?p=view_workshop&id=2360/\">Booking here</a> "
+  title: "Research Data Management (Part 2) - Sharing, archiving and publishing"
+  description: "Researchers are increasingly being asked by funders, publishers and their institutions to share their research data. Come along to this workshop to learn about how you can prepare and disseminate your research findings; increase your research impact through data publication; and, learn about services available to you to achieve this.  <a href=\"https://www.library.auckland.ac.nz/workshops/?p=view_workshop&id=2360/\">Booking here</a> "
   subtype: workshop
-  speakers: [13,14]
+  speakers: [14]
   complexity: "Beginner, all welcome"
 -
   id: 005
@@ -208,7 +209,7 @@
 -
   id: 032
   title: "Literature reviews with NVivo"
-  description: "Reviewing the literature is an important part of the research process. Organising relevant papers and findings are more than just data entry or bibliographic tasks, you also need to be able to analyse and integrate this material with the qualitative data you are gathering. This one-hour demonstration will provide an overview of NVivo’s functionality with regard to literature reviews. Importing and coding literature, running queries on published material, and working with bibliographic data in conjunction with your NVivo project will all be covered." 
+  description: "If you’re buried under piles of literature and can’t see the wood for the trees, NVivo might just have something to offer you. While NVivo is primarily designed to analyse qualitative data, much of its functionality is applicable to literature reviews. It won’t analyse the literature or write the review for you, but it has a range of features that will assist you in working with PDFs and notes relating to your review. The ability to run queries on your literature is particularly powerful, and there are a range of useful visualisation tools also. This one-hour webinar will introduce the software and demonstrate some of its key functionality in relation to literature reviews. Experience with NVivo will be helpful, but is not required." 
   subtype: workshop
   speakers: [36]
   complexity: "Beginner" 
@@ -262,8 +263,8 @@
 
 -
   id: 042
-  title: "Digital Storytelling and data Visualisation with KnightLab"
-  description: "Use open source tools to create interactive narratives and visualisations for your research. Overview of a range of free, easy-to-use interactive tools useful for time or location-based narratives. Learn the basics with the option to explore more advanced features. There'll be two sessions focussing on these tools. The day one session will provide an overview of the tools and possible research applications. The hands-on session on the second day will see participants create their own digital narratives using the toolsuite. Possible assets to use here."
+  title: "Digital Storytelling and Data Visualisation with KnightLab"
+  description: "Use open source tools to create interactive narratives and visualisations for your research. This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics with the option to explore more advanced features, and collaborate on creating a TimeLine."
   subtype: workshop
   speakers: [38]
   complexity: "All welcome" 
@@ -308,8 +309,8 @@
 
 -
   id: 046
-  title: "Workshop: Topic Modelling with Tidy TOPAN (3-hour session)"
-  description: "Introductory follow-along workshop on Topic Modelling, using Tidy ToPān. ToPān is Topic-Modelling for everyone: from people without programming knowledge to people that want to build teaching and text-reuse tools and apps based on Topic-Modelling data without having to develop their own tool or having to majorly restructure their textual data. <a href=\"https://github.com/ThomasK81/tidyToPan/tree/1.0.0#installing-it\">Installation instructions</a>"
+  title: "Workshop: Topic Modelling with Tidy ToPān (3-hour session)"
+  description: "Introductory follow-along workshop on Topic Modelling, using Tidy ToPān. ToPān is Topic Modelling for everyone: from people without programming knowledge to people that want to build teaching and text-reuse tools and apps based on Topic Modelling data without having to develop their own tool or having to majorly restructure their textual data. <a href=\"https://github.com/ThomasK81/tidyToPan/tree/1.0.0#installing-it\">Installation instructions</a>"
   subtype: workshop
   speakers: [35]
   complexity: "All welcome" 
