@@ -66,11 +66,11 @@ heroButtons:
 # About Block
 aboutTitle: "About ResBaz 2020 'Pick n Mix' Edition"
 aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. We LOVE the usual 3-day cohort event full of digital skills, workshops, social activities and amazing food. However, we’ve had to adapt the event this year!</p>
+aboutText: "<p>The <em>Research Bazaar</em> is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the usual 3-day cohort event full of digital skills workshops, social activities and amazing food. However, we’ve had to adapt the event this year!</p>
 
-<p>Our ResBaz 2020 will offer an opportunity for researchers come together virtually to up-skill in ‘next generation digital research tools and skill’ through a series of brief online workshops sessions - a ‘Pick n Mix’.  Sessions this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across disciplines.</p>
+<p>Our ResBaz 2020 will offer an opportunity for Aotearoa New Zealand researchers come together virtually to up-skill in digital research tools and skills through a series of brief online workshops sessions - a ‘Pick n Mix’. The <a href=\"https://resbaz.auckland.ac.nz/schedule/\">schedule</a> this year is intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across disciplines.</p>
 
-<p>A collaboration between the University of Auckland and Victoria University of Wellington,  we welcome researchers at ALL levels from ALL disciplines to <b>register for individual sessions</b>. Research technologists who support researchers to do their job should also come along!</p>"
+<p>A collaboration between the University of Auckland and Victoria University of Wellington, we welcome researchers at ALL levels from ALL disciplines to <a href=\"https://resbaz.auckland.ac.nz/sessions/\">register for individual sessions</a>. Research technologists who support researchers to do their job should also come along!</p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

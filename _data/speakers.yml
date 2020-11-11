@@ -131,8 +131,8 @@
   rockstar: false
   ribbon:
     - {abbr: "NLNZ", title: "National Library Of New Zealand", url: "https://natlib.govt.nz/"}
-#   social: 
-#     - {name: "github", link: "https://github.com/Hganavak"}
+  social: 
+    - {name: "github", link: "https://github.com/Hganavak"}
 - 
   id: 12
   name: "Noel"
@@ -456,17 +456,19 @@
 #   rockstar: false
 #   ribbon:
 #     - {abbr: "REANNZ", title: "REANNZ", url: "https://reannz.co.nz/"}
-# -
-#   id: 45
-#   name: "Jon"
-#   surname: "MacKay"
-#   company: "Business School"
-#   title: "Lecturer"
-#   bio: "Jon MacKay is a lecturer in Business Analytics at the Graduate School of Management within the Business School at the University of Auckland. Dr. MacKay received his PhD in Management Sciences from the University of Waterloo in Canada. He has used network analysis in various projects. These include: examining how ownership networks within corporate boards is associated with performance; how corporate boards of successful companies within a German-speaking ethnic enclave in Canada were disconnected from those of the Anglo-Canadian elites at the turn of the last century; and the implications that ideological networks have for effective the leadership of political parties."
-#   thumbnailUrl: "jon-mackay.jpg"
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "Business", title: "Business School", url: "https://www.auckland.ac.nz/en/business.html"}
+-
+  id: 45
+  name: "Jon"
+  surname: "MacKay"
+  company: "Graduate School of Management"
+  title: "Lecturer"
+  # bio: "Jon MacKay is a lecturer in Business Analytics at the Graduate School of Management within the Business School at the University of Auckland. Dr. MacKay received his PhD in Management Sciences from the University of Waterloo in Canada. He has used network analysis in various projects. These include: examining how ownership networks within corporate boards is associated with performance; how corporate boards of successful companies within a German-speaking ethnic enclave in Canada were disconnected from those of the Anglo-Canadian elites at the turn of the last century; and the implications that ideological networks have for effective the leadership of political parties."
+  thumbnailUrl: "jon-mackay.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "Graduate School of Management", title: "Graduate School of Management, UoA", url: "https://www.gsm.auckland.ac.nz/"}
+  social: 
+    - {name: "site", link: "https://unidirectory.auckland.ac.nz/profile/jon-mackay"}
 # -
 #   id: 46
 #   name: "Vivian"
@@ -487,17 +489,17 @@
 #   thumbnailUrl: "to_be_announced1.png"
 #   rockstar: false
 #   ribbon:
-# -
-#   id: 48
-#   name: "Sina"
-#   surname: "Masoud-Ansari"
-#   company: "Centre for eResearch"
-#   title: "Senior eResearch Engagement Specialist"
-#   bio: "Sina is a senior member of the Centre for eResearch's engagement team."
-#   thumbnailUrl: "to_be_announced1.png"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
+-
+  id: 48
+  name: "Sina"
+  surname: "Masoud-Ansari"
+  company: "Centre for eResearch"
+  title: "Senior eResearch Engagement Specialist"
+  bio: "Sina is a senior member of the Centre for eResearch's engagement team."
+  thumbnailUrl: "to_be_announced1.png"
+  rockstar: false 
+  ribbon:
+    - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
 # -
 #   id: 49
 #   name: "Sandy"

@@ -93,13 +93,9 @@
 -
   id: 005
   title: "Introduction to Nectar virtual machines (- UoA only)"
-  description: "Is your desktop/laptop struggling to perform research analysis?<br /><br /> 
-  Using a virtual machine could help.<br /><br /> 
-  The Centre for eResearch is offering a 1-hour online workshop and practical session to enable University of Auckland researchers to use Nectar Research Cloud (virtual machines).<br /><br /> 
-  This session is ideal for those considering or starting to use Nectar Research Cloud, presenters will provide practical instruction on getting an allocation and setting up a Windows virtual machine.<br /><br /> 
-  Please register with your University of Auckland email address. <a href=\"https://www.eventbrite.com/e/introduction-to-nectar-virtual-machines-tickets-124377936757/\">Link for description</a> "
+  description: "<a href=\"https://www.eventbrite.com/e/introduction-to-nectar-virtual-machines-tickets-124377936757\">Book here</a> "
   subtype: workshop
-  speakers: [22]
+  speakers: [48]
   complexity: "TBC" 
 -
   id: 006
@@ -126,9 +122,8 @@
 
 -
   id: 011
-  title: "Introduction to Linux command line (the shell)"
-  description: "There are research computing platforms running the linux operating system where no gui interface is available, and it is essential to know how to navigate filesystems and run programs from the command-line (the shell). From the command-line you can then automate your work-processes and work much more efficiently.<br /><br /> 
-  This introduction to the bash shell will cover 1) basic navigation,  2)  customizing the shell with environment variables, and 3) running small automation scripts."
+  title: "Introduction to Linux command line"
+  description: "The Linux command line is a text interface to your computer. Often referred to as the shell, terminal, console, prompt or various other names, it can give the appearance of being complex and confusing to use. In this session Anita will cover the basics to get you started."
   subtype: workshop
   speakers: [21]
   complexity: "Beginner" 
@@ -202,14 +197,14 @@
 
   id: 027
   title: "Research Compute - overview of University of Auckland options"
-  description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland researchers and research postgraduate students."
+  description: "Need more computer power to do your analysis? Is your laptop/desktop struggling to run your analysis? Come along to hear about virtual machines and High Performance Computing options available to University of Auckland researchers and research postgraduate students. <a href=\"https://www.eventbrite.com/e/research-compute-overview-for-university-of-auckland-options-tickets-128715149477\">Book here</a>"
   subtype: workshop
   speakers: [17]
   complexity: "Beginners" 
 -
   id: 031
-  title: "Data Analysis with Jupyter Notebooks:"
-  description: "Jupyter Notebooks are an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. This session will give an overview of how and why these notebooks can be useful for research and analysis, and how you can unlock the power of the functionality they offer."
+  title: "Data Analysis with Jupyter Notebooks"
+  description: "Jupyter Notebooks are an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. This session will give an overview of how and why these notebooks can be useful for research and analysis, and how you can unlock the power of the functionality they offer. <a href=\"https://vuw.libcal.com/event/5293389/\">Book here</a>"
   subtype: workshop
   speakers: [10]
   complexity: "Beginners" 
@@ -234,15 +229,13 @@
 #   subtype: workshop
 #   speakers: [19, 47]
 #   complexity: "Beginner" 
-# -
-#   id: 035
-#   title: "Network analysis (Rm:G30)"
-#   description: "Social Network Analysis has a long history spanning multiple academic disciplines, so in this short session we won’t try to be comprehensive. Instead, participants will be exposed to some of key sociologically based network theories and their associated network measures. These basic insights can then be used as a starting point for further research. During this session we’ll also touch on some tools that exist to make cleaning, loading and analyzing network data easier than ever before.<br /><br />
-  
-#   More information about the session and resources for those wishing to follow along will be available here: http://jgmackay.com/resbaz/" 
-#   subtype: workshop
-#   speakers: [45]
-#   complexity: "Beginner" 
+-
+  id: 035
+  title: "Social Network Analysis - an introduction"
+  description: "Intended to be a very general introduction to social network analysis (SNA). The session will be geared towards researchers interested in what network analysis is all about from both theoretical and practical perspectives. Jon will talk about the characteristics of social networks and some well-known positional measures in social networks. A quick“lay of the land” and idea of where to go if SNA is something potentially relevant to your developing research.  I’ll also outline some useful tools and frameworks that you’ll find useful. <a href=\"https://www.eventbrite.com/e/social-network-analysis-an-introduction-tickets-128789441687/\">Book here</a> " 
+  subtype: workshop
+  speakers: [45]
+  complexity: "Beginner" 
 -
   id: 036
   title: "Working with social media data?"
@@ -271,7 +264,7 @@
 -
   id: 042
   title: "Digital Storytelling and Data Visualisation with KnightLab"
-  description: "Use open source tools to create interactive narratives and visualisations for your research. This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics with the option to explore more advanced features, and collaborate on creating a TimeLine."
+  description: "Use open source tools to create interactive narratives and visualisations for your research. This session provides an overview of a range of free, easy-to-use tools from KnightLab useful for time or location-based narratives. Learn the basics with the option to explore more advanced features, and collaborate on creating a TimeLine. <a href=\"https://vuw.libcal.com/event/5293353/\">Book here</a>"
   subtype: workshop
   speakers: [38]
   complexity: "All welcome" 
@@ -292,7 +285,7 @@
 -
   id: 043
   title: "Data publishing tips and Q&A - drop-in session"
-  description: "Pop by for an overview on data publishing  - why, what, where and how. Bring along your questions"
+  description: "Pop by for an overview on data publishing  - why, what, where and how. Bring along your questions to this drop-in session. <a href=\"https://auckland.zoom.us/my/hackyhour/\">Zoom link</a> "
   subtype: workshop
   speakers: [14,38]
   complexity: "All welcome" 
@@ -325,7 +318,7 @@
 -
   id: 047
   title: "Research Portfolio website"
-  description: "Learn how to create a website to showcase your research outputs using GitHub and wowchemy"
+  description: "Learn how to create a attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://vuw.libcal.com/event/5293388/\">Book here</a> "
   subtype: workshop
   speakers: [38]
   complexity: "All welcome" 
@@ -336,4 +329,25 @@
   description: "Topic modeling is a frequently used tool for discovering hidden structures in text-based material. Learn how it's used in a range of research contexts, including the digital humanities and social sciences."
   subtype: workshop
   speakers: [35]
+  complexity: "All welcome" 
+
+-
+  id: 051
+  title: "Tidy data with spreadsheets"
+  description: "This lesson is designed for those interested in working with data in spreadsheets, using library data for reference.<br /><br /> 
+  It will demonstrate good practice for using spreadsheet programs for data wrangling, formatting data tables in spreadsheets, and dealing with dates as data.<br /><br /> 
+  This is a very useful grounding for anyone who makes, uses, or contributes towards work/projects that use data, especially in spreadsheets.<br /><br /> 
+  Must have access to spreadsheet software, ideally Excel. <a href=\"https://vuw.libcal.com/event/5293390/\">Book here</a> "
+  subtype: workshop
+  speakers: [11]
+  complexity: "All welcome" 
+
+-
+  id: 052
+  title: "Intro to XML and JSON"
+  description: "\"What is XML? How does XML work? How can I use XML? What can I use XML for?\"<br /><br /> 
+  \"What is JSON? How does JSON work? How can I use JSON? What can I use JSON for?\"<br /><br /> 
+  Useful for anyone who wants/needs to engage with data in XML or JSON formats and wants a guided tour of formats, and how to create/read/use them."
+  subtype: workshop
+  speakers: [11]
   complexity: "All welcome" 
