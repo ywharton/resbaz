@@ -1,6 +1,6 @@
 - 
   id: 0
-  name: "Bruce" ###l
+  name: "Bruce"
   surname: "Caron"
   company: "New Media studio"
   title: "Open Science architect"
@@ -8,9 +8,9 @@
   thumbnailUrl: "CARON_bio_small.jpg"   
   rockstar: true
   ribbon:
-    - {abbr: "TNMS", title: "New Media studio", url: "https://orcid.org/0000-0003-0790-0872"}
+    - {abbr: "TNMS", title: "New Media studio", url: "https://tnms.org/"}
   social: 
-    - {name: "orcid", link: "https://orcid.org/0000-0003-0790-0872"}
+    - {name: "site", link: "https://orcid.org/0000-0003-0790-0872"}
 
 # - 
 #   id: 1
@@ -107,19 +107,19 @@
   ribbon:
     - {abbr: "UoC", title: "Library, University of Canterbury", url: "https://www.canterbury.ac.nz/"}
   social: 
-    - {name: "Medium profile", link: "https://www.anton.angelo.nz/"}
+    - {name: "site", link: "https://www.anton.angelo.nz/"}
 -
   id: 10
   name: "Konstantina"
   surname: "Vasileva"
   title: "PhD student"
-  bio: "Konstantina is an analytics professional who started in qualitative research back in 2009 and worked her way through mid-management positions in media analytics before choosing to focus her time, energy, and enthusiasm on STEM research & data science. She is an expert in asking hard questions and answering them with storytelling flair underpinned by reliable data. See her work at https://medium.com/@Konstantinna"
+  bio: "Konstantina is an analytics professional who started working in media and qualitative research back in 2009 and later moved on to manage media analytics projects for international clients in a range of industries. In a reckless bout of determination, after working for about a decade, she returned to university to requalify and develop skills in STEM and data analysis, applicable both in sci research & industry projects. See some of her work at https://medium.com/@Konstantinna "
   thumbnailUrl: "konstantina.vasileva.jpg"
   rockstar: false
   ribbon:
     - {abbr: "VUW", title: "School of Psychology, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
   social: 
-    - {name: "Medium profile", link: "https://medium.com/@Konstantinna"}
+    - {name: "site", link: "https://medium.com/@Konstantinna"}
 - 
   id: 11
   name: "Jay"
@@ -379,7 +379,7 @@
   ribbon:
     - {abbr: "UoL", title: "University of Leipzig", url: "https://www.uni-leipzig.de/en/"}
   social: 
-    - {name: "Medium profile", link: "https://thomaskoentges.com/"}
+    - {name: "site", link: "https://thomaskoentges.com/"}
 -
   id: 36
   name: "Lyn"
