@@ -54,6 +54,7 @@
       endTime: "17:00",
       sessionIds: [011]
     } 
+### tuesday
 - 
   date: "2020-11-24"
   dateReadable: "Nov 24"
@@ -164,6 +165,7 @@
       endTime: "17:00",
       sessionIds: [300]
     }
+###Thursday
 - 
   date: "2020-11-26"
   dateReadable: "Nov 26"
