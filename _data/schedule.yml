@@ -18,13 +18,13 @@
     - {
     	startTime: "11:00",
       endTime: "12:00",
-    	sessionIds: [027, 010] 
+    	sessionIds: [010, 027] 
     }
 
     - {
     	startTime: "12:00",
       endTime: "1:00",
-    	sessionIds: [100]
+    	sessionIds: [400]
     }
    
     - {
