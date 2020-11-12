@@ -115,7 +115,7 @@
   id: 010
   title: "Tidy data and introduction to OpenRefine"
   description: "Good data organisation is the foundation of any research project. We often organise data in spreadsheets in ways that we as humans want to work with it, but computers require data be organised in particular ways. In order to use tools that make computation more efficient such as programming languages like R or Python, we need to structure our data the way that computers need it. Since this is where most research projects start, this is where we want to start too!<br /><br /> 
-  Preparing data for analysis is an important part of the research workflow. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent. OpenRefine is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. This lesson will teach you to use OpenRefine to effectively clean and format data and automatically track any changes that you make. Many people comment that this tool saves them literally months of work trying to make these edits by hand."
+  Preparing data for analysis is an important part of the research workflow. Some of this involves data cleaning, where errors in the data are identifed and corrected or formatting made consistent. OpenRefine is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. This lesson will teach you to use OpenRefine to effectively clean and format data and automatically track any changes that you make. Many people comment that this tool saves them literally months of work trying to make these edits by hand. <a href=\"https://www.eventbrite.com/e/tidy-data-and-an-introduction-to-open-refine-tickets-128809746419/\">Book here</a> "
   subtype: workshop
   speakers: [19,13]
   complexity: "Beginner" 
@@ -123,7 +123,7 @@
 -
   id: 011
   title: "Introduction to Linux command line"
-  description: "The Linux command line is a text interface to your computer. Often referred to as the shell, terminal, console, prompt or various other names, it can give the appearance of being complex and confusing to use. In this session Anita will cover the basics to get you started."
+  description: "The Linux command line is a text interface to your computer. Often referred to as the shell, terminal, console, prompt or various other names, it can give the appearance of being complex and confusing to use. In this session Anita will cover the basics to get you started. <a href=\"https://www.eventbrite.com/e/introduction-to-linux-commandline-tickets-128806001217/\">Book here</a> "
   subtype: workshop
   speakers: [21]
   complexity: "Beginner" 
@@ -294,7 +294,7 @@
   id: 044
   title: "Workshop: Introduction to Open Refine (3-hour seesion)"
   description: "OpenRefine is a free, open-source powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, follow-along workshop will demonstrate how it can help you:
-  Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources"
+  Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources. <a href=\"https://vuw.libcal.com/event/5293276/\">Book here</a>"
   subtype: workshop
   speakers: [9]
   complexity: "All welcome" 
@@ -350,4 +350,23 @@
   Useful for anyone who wants/needs to engage with data in XML or JSON formats and wants a guided tour of formats, and how to create/read/use them."
   subtype: workshop
   speakers: [11]
+  complexity: "All welcome" 
+
+-
+  id: 053
+  title: "How to plan for real world impact! (Faith)"
+  description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"https://www.eventbrite.com/e/how-to-plan-your-research-for-real-world-impact-tickets-128804045367/\">Book here</a>"
+  subtype: workshop
+  speakers: [29]
+  complexity: "All welcome" 
+
+-
+  id: 054
+  title: "Workflow languages – your foundation for accuracy and reproducibility in data analysis"
+  description: "Are you working with big data? Do you need to pass your data through various software?  If you’ve ever been in this situation (as I have in a population genetics masters project), you would know it can become very difficult to maintain reproducibility and accuracy; wait, have I updated this output file? The more manual steps we do, the more human errors are inevitably introduced into our analysis, hampering accuracy and reproducibility.<br /><br />
+  Be lazy, the machine does it better.<br /><br />
+  Workflow languages automate your data analysis workflow . But this isn’t all, they ensure all your analysis logs are captured in an organised fashion, they explicitly outline the software (and exact software versions) used, the input and output files at each step. Lastly, when your data inevitably becomes big data, you can easily scale up from running your analysis on your laptop, to running your analysis on a high performance cluster (HPC) such as NeSi.<br /><br />
+  In this workshop, we will work through an introduction to Snakemake, a workflow language with its basis in the popular programming language, Python. This Workshop is intended for anyone who has several steps in their data analysis workflow, particularly when many different software are involved."
+  subtype: workshop
+  speakers: [37]
   complexity: "All welcome" 
