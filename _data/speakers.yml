@@ -252,7 +252,7 @@
   surname: "Laverick"
   company: "Centre for eResearch"
   title: "eResearch Solutions Specialist"
-  bio: "Mike is an eResearch Solutions Specialist."
+  bio: "Mike is an eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
   thumbnailUrl: "to_be_announced1.png"
   rockstar: false 
   ribbon:
@@ -357,6 +357,19 @@
 #   rockstar: false 
 #   ribbon:
 #     - {abbr: "FMHS", title: "Faculty of Medical and Health Sciences", url: "https://fmhs.auckland.ac.nz"}
+-
+  id: 33
+  name: "Zak"
+  surname: "Argabrite"
+  company: "Sonic Arts"
+  title: "Composer/sound artist/PhD candidate"
+  bio: "Zak Argabrite is a composer, sound artist and audio engineer from Louisville, KY based in New York, NY interested in how sound, ability, performance, listening and social/cultural ritual can relate to awareness of the people and things around us. Zak creates pieces for performance and installation, inventing and building in a variety of mediums surrounding the concert and sound art domains including performance notation, instrument building and handmade electronics."
+  thumbnailUrl: "Zak.Argabrite.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "VUW", title: "Sonic Arts, Victoria University of Wellington", url: "https://eresearch.auckland.ac.nz"}
+  social: 
+    - {name: "site", link: "https://www.zakargabrite.com/"}
 # -
 #   id: 34
 #   name: "Aimee"

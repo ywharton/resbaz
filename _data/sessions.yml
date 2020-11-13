@@ -135,7 +135,7 @@
 -
   id: 013
   title: "R for Social Scientists"
-  description: "This session will introduction R for participants with no programming experience. We hope to cover information about R syntax, the RStudio interface, and move through how to import CSV files, what a data frame is, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting."
+  description: "This session will introduction R for participants with no programming experience. We hope to cover information about R syntax, the RStudio interface, and move through how to import CSV files, what a data frame is, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. <a href=\"https://www.eventbrite.com/e/r-for-social-scientists-tickets-128961396007/https://www.eventbrite.com/e/r-for-social-scientists-tickets-128961396007\">Book here</a> "
   speakers: [19]
 # -
   # id: 014
@@ -255,8 +255,7 @@
 -
   id: 041
   title: "Linux command line - Beyond the basics"
-  description: "There are research computing platforms running the linux operating system where no gui interface is available, and it is essential to know how to navigate filesystems and run programs from the command-line (the shell). From the command-line you can then automate your work-processes and work much more efficiently.<br /><br /> 
-  This introduction to the bash shell will cover 1) basic navigation,  2)  customizing the shell with environment variables, and 3) running small automation scripts."
+  description: "<a href=\"https://www.eventbrite.com/e/linux-command-line-beyond-the-basics-tickets-128962252569/\">Book here</a>"
   subtype: workshop
   speakers: [21]
   complexity: "Intermediate" 
@@ -402,3 +401,11 @@
   subtype: workshop
   speakers: [21]
   complexity: "All welcome" 
+
+# -
+#   id: 060
+#   title: "Software Carpentry - taster session (90mins)"
+#   description: "<a href=\"https://www.eventbrite.com/e/software-carpentry-taster-session-90mins-resbaz-2020-tickets-128948724105/\">Book here</a>"
+#   subtype: workshop
+#   speakers: []
+#   complexity: "All welcome" 
