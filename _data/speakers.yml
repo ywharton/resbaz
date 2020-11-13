@@ -257,16 +257,16 @@
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
-# -
-#   id: 23
-#   name: "Megan"
-#   surname: "Guidry"
-#   company: "New Zealand eScience Infrastructure"
-#   title: "Research Communities Advisor"
-#   thumbnailUrl: "megan_guidry.jpg"
-#   rockstar: false 
-#   ribbon:
-#     - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
+-
+  id: 23
+  name: "Megan"
+  surname: "Guidry"
+  company: "New Zealand eScience Infrastructure"
+  title: "Research Communities Advisor"
+  thumbnailUrl: "megan_guidry.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "https://www.nesi.org.nz"}
 # -
 #   id: 24
 #   name: "Liz"
@@ -415,7 +415,6 @@
   ribbon:
     - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
 
-
 -
   id: 39
   name: "Warrick"
@@ -446,6 +445,19 @@
 #   rockstar: false 
 #   ribbon:
 #     - {abbr: "Liggins", title: "Liggins Institute", url: "http://https://www.auckland.ac.nz/en/liggins.html"}
+- 
+  id: 42
+  name: "Miles"
+  surname: "Benton"
+  company: "ESR"
+  title: "Bioinformatics Scientist"
+  bio: "Miles is a Senior Scientist within the Human Genomics group at ESR with extensive experience in computational genomics and bioinformatics. He is heavily involved in the Data Carpentries as an instructor and facilitator, and is also a mentor on ESR’s data science accelerator programme. He is deeply committed to making data science and it’s tools accessible, with the belief that everyone should be able to access, interact with and interpret their data."
+  thumbnailUrl: "Miles.Benton.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "ESR", title: "Institute of Environmental Science and Research Ltd", url: "https://www.esr.cri.nz/"}
+  social: 
+    - {name: "github", link: "http://sirselim.github.io/about/"}
 
 # -
 #   id: 43

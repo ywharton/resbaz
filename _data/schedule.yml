@@ -88,20 +88,31 @@
    
     - {
       startTime: "13:00",
-      endTime: "14:30",
+      endTime: "14:00",
       sessionIds: [044, 053]
     }
 
     - {
-      startTime: "14:30",
-      endTime: "15:00",
+      startTime: "14:00",
+      endTime: "14:30",
       sessionIds: [200]
     }
 
     - {
-      startTime: "15:00",
-      endTime: "16:30",
-      sessionIds: [044, 040]
+      startTime: "14:30",
+      endTime: "15:30",
+      sessionIds: [044, 055]
+    }
+
+    - {
+      startTime: "15:30",
+      endTime: "16:00",
+      sessionIds: [200, 040]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "17:00",
+      sessionIds: [044, 200]
     }
 
 ##Wednesday
