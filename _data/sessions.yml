@@ -8,17 +8,17 @@
 
 - 
   id: 101
-  title: "Key Story - From Parenthood to Portable Genomics"
-  description: "Miles is a Senior Scientist within the Human Genomics group at ESR with extensive experience in computational genomics and bioinformatics. He is heavily involved in the Data Carpentries as an instructor and facilitator, and is also a mentor on ESR’s data science accelerator programme. He is deeply committed to making data science and it’s tools accessible, with the belief that everyone should be able to access, interact with and interpret their data. This key story will chart Miles' journey as a researcher, including how his experiences as a new parent lead to exploring options for portable, real-time genome sequencing. <a href=\"https://vuw.libcal.com/event/5293270/\">Book here</a> "
+  title: "Key Story - Harnessing the disruptive nature of portable sequencing for community empowerment"
+  description: "The current 'climate' is full of buzz words, such as: AI (artificial intelligence); deep learning; cloud computing, and the 'Internet of Things'. As consumers, and even research specialists, this can all be overwhelming. At ESR we are endeavouring to provide our staff, clients, and hopefully the wider community, with some insight into the technologies behind this jargon. In this talk I will discuss our experiences with the Nvidia Jetson family of small embedded computing platforms. What started as an idea to address a very personal need has developed into an international, collaborative, cross-programme study to develop and deploy an innovative, disruptive, portable and affordable sequencing technology into the hands of the community to empower their health and well-being. Additionally, the affordable, easy to source components provide exciting opportunities for such endeavours as community outreach and education. If you want a sneak peak visit this <a href=\"https://github.com/sirselim/jetson_nanopore_sequencing\">GitHub repository</a>. <a href=\"https://vuw.libcal.com/event/5293270/\">Book here</a>"
   speakers: [42]
   # hidden: true
 
 - 
   id: 102
-  title: "Keystory"
-  description: 
-  speakers: []
-  hidden: true
+  title: "Key story - From Classics to Computer Science and back again"
+  description: "A self-described computational philogoist, Thomas is an expert in digital humanities, data and stylometric analysis, and historical language processing.  This Key Story will chart his multi-faceted research trajectory: from a 13 year old facing the difficult choice between learning ancient Greek or being trained in Computer Science, to a successful academic with positions at Harvard and the University of Leipzig, where he has been able to combine these dual interests in novel and powerful ways. More about Thomas can be found <a href=\"https://thomaskoentges.com/\">here</a>. <a href=\"https://vuw.libcal.com/event/5293466/\">Book here</a>" 
+  speakers: [35]
+#  hidden: true
 - 
   id: 103
   title: "Keystory"
@@ -75,7 +75,7 @@
   subtype: workshop
   speakers: [27]
   complexity: "Beginner" 
-  presentation: "https://tofu.dev/workshops/latex"
+#  presentation: "https://tofu.dev/workshops/latex"
 # -
 #   id: 003
 #   title: "Version control and collaboration tools - Intro to Git and GitHub"
@@ -292,7 +292,7 @@
 
 -
   id: 044
-  title: "Workshop: Introduction to Open Refine (3-hour seesion)"
+  title: "Workshop: Introduction to Open Refine (3-hour session)"
   description: "OpenRefine is a free, open-source powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, follow-along workshop will demonstrate how it can help you:
   Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources. <a href=\"https://vuw.libcal.com/event/5293276/\">Book here</a>"
   subtype: workshop
@@ -344,7 +344,7 @@
 
 -
   id: 052
-  title: "Intro to XML and JSON"
+  title: "Intro to XML and JSON (2-hour session)"
   description: "\"What is XML? How does XML work? How can I use XML? What can I use XML for?\"<br /><br /> 
   \"What is JSON? How does JSON work? How can I use JSON? What can I use JSON for?\"<br /><br /> 
   Useful for anyone who wants/needs to engage with data in XML or JSON formats and wants a guided tour of formats, and how to create/read/use them. <a href=\"https://vuw.libcal.com/event/5293473/\">Book here</a> "
@@ -384,4 +384,21 @@
   If any of these topics sound intriguing, please be sure to join the call. Several NeSI staff will be online to share their expertise and we would be thrilled to hear how NeSI can support you on your research journey. <a href=\"https://www.eventbrite.com/e/tour-of-new-zealand-escience-infrastructure-virtual-tickets-128945899657/\">Book here</a> "
   subtype: workshop
   speakers: [23]
+  complexity: "All welcome" 
+
+-
+  id: 056
+  title: "Social Media for Research Networking and Engagement "
+  description: "What does social media do for research impact and networking that more traditional forms of communication don't?<br /><br />
+  This session will explore how to make the most of social media in a research context, including information on: getting information, providing information, networking with other academics, engaging with communities outside of academia, and finding your tribe. It will also address how you can manage the distinction between personal and professional on social media, and how to mitigate the dangers of using it. <a href=\"https://vuw.libcal.com/event/5293510/\">Zoom link</a> "
+  subtype: workshop
+  speakers: [38]
+  complexity: "All welcome" 
+
+-
+  id: 057
+  title: "Linux command line - beyond the basics"
+  description: "This session builds on your knowledge of commandline basics. More information to come."
+  subtype: workshop
+  speakers: [21]
   complexity: "All welcome" 

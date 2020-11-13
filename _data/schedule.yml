@@ -30,7 +30,7 @@
     - {
     	startTime: "13:00",
     	endTime: "14:00",
-    	sessionIds: [012]
+    	sessionIds: [012, 032]
     }
 
     - {
@@ -52,7 +52,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [011]
+      sessionIds: [056, 011]
     } 
 ### tuesday
 - 
@@ -150,7 +150,7 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [300]
+      sessionIds: [051]
     }
 
     - {
@@ -162,7 +162,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [043]
+      sessionIds: [043, 051]
     }
 
     - {
@@ -223,7 +223,7 @@
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [046, 300]
+      sessionIds: [046, 045]
     }
 
     - {
@@ -235,7 +235,7 @@
     - {
       startTime: "16:00",
       endTime: "17:00",
-      sessionIds: [046, 041]
+      sessionIds: [046, 057]
     }
 ## Friday
 - 
@@ -272,13 +272,19 @@
     - {
       startTime: "13:00",
       endTime: "14:00",
-      sessionIds: [300]
+      sessionIds: [052]
+    }
+
+    - {
+      startTime: "14:00",
+      endTime: "14:30",
+      sessionIds: [200]
     }
 
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [200]
+      sessionIds: [052, 054]
     }
     - {
       startTime: "15:00",
