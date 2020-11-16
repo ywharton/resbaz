@@ -291,7 +291,7 @@
 
 -
   id: 044
-  title: "Workshop: Introduction to Open Refine (3-hour session)"
+  title: "Workshop: Introduction to Open Refine (3hours)"
   description: "OpenRefine is a free, open-source powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. This introductory, follow-along workshop will demonstrate how it can help you:
   Get an overview of a data set and resolve inconsistencies; split data up into more granular parts; match local data up to other data sets; and enhance a data set with data from other sources. <a href=\"https://vuw.libcal.com/event/5293276/\">Book here</a>"
   subtype: workshop
@@ -343,7 +343,7 @@
 
 -
   id: 052
-  title: "Intro to XML and JSON (2-hour session)"
+  title: "Intro to XML and JSON (2hours)"
   description: "\"What is XML? How does XML work? How can I use XML? What can I use XML for?\"<br /><br /> 
   \"What is JSON? How does JSON work? How can I use JSON? What can I use JSON for?\"<br /><br /> 
   Useful for anyone who wants/needs to engage with data in XML or JSON formats and wants a guided tour of formats, and how to create/read/use them. <a href=\"https://vuw.libcal.com/event/5293473/\">Book here</a> "
