@@ -147,12 +147,12 @@
   # title: "Staying uptodate with the literature: tips and tricks (Rm:G30)"
   # description: "This is a 'Bring your own device' session. Discover tips and tricks for staying up-to-date with the literature in your discipline, including: setting up database alerts, using advanced searching techniques, following twitter communities, setting up RSS feeds, and finding grey literature and patents."
   # speakers: [25]
--
-  id: 016
-  title: "NVivo - Tips and Tricks"
-  description: "An introduction to using NVivo with qualitative data, and some tips and tricks on survey analysis"
-  speakers: [19]
-  complexity: "Beginner" 
+# -
+#   id: 016
+#   title: "NVivo - Tips and Tricks"
+#   description: "An introduction to using NVivo with qualitative data, and some tips and tricks on survey analysis"
+#   speakers: [19]
+#   complexity: "Beginner" 
 # -
   # id: 017
   # title: "Introduction to R programming language (Rm:110)"
@@ -353,7 +353,7 @@
 
 -
   id: 053
-  title: "How to plan for real world impact! (Faith)"
+  title: "How to plan for real world impact!"
   description: "Economic, societal and environmental impact, or the ‘non-academic’ impact of research, is becoming an increasingly important part of the research ecosystem. It is standard practice for researchers to be asked by funders to describe the benefits of their research and how they might enable that benefit to be achieved. This session offers a high-level step-by-step guide on how to incorporate impact into your research planning. <a href=\"https://www.eventbrite.com/e/how-to-plan-your-research-for-real-world-impact-tickets-128804045367/\">Book here</a>"
   subtype: workshop
   speakers: [29]
@@ -394,13 +394,13 @@
   speakers: [38]
   complexity: "All welcome" 
 
--
-  id: 057
-  title: "Linux command line - beyond the basics"
-  description: "This session builds on your knowledge of commandline basics. More information to come."
-  subtype: workshop
-  speakers: [21]
-  complexity: "All welcome" 
+# -
+#   id: 057
+#   title: "Linux command line - beyond the basics"
+#   description: "This session builds on your knowledge of commandline basics. More information to come."
+#   subtype: workshop
+#   speakers: [21]
+#   complexity: "All welcome" 
 
 # -
 #   id: 060
