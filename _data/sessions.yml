@@ -136,7 +136,7 @@
   id: 013
   title: "R for Social Scientists"
   description: "This session will introduction R for participants with no programming experience. We hope to cover information about R syntax, the RStudio interface, and move through how to import CSV files, what a data frame is, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. <a href=\"https://www.eventbrite.com/e/r-for-social-scientists-tickets-128961396007/https://www.eventbrite.com/e/r-for-social-scientists-tickets-128961396007\">Book here</a> "
-  speakers: [19]
+  speakers: [19,18]
 # -
   # id: 014
   # title: "Publishing: Getting more people to read your research (Rm:110)"
@@ -308,7 +308,7 @@
 
 -
   id: 046
-  title: "Workshop: Topic Modelling with Tidy ToPān (3-hour session)"
+  title: "Workshop: Topic Modelling with Tidy ToPān (3hours)"
   description: "Introductory follow-along workshop on Topic Modelling, using Tidy ToPān. ToPān is Topic Modelling for everyone: from people without programming knowledge to people that want to build teaching and text-reuse tools and apps based on Topic Modelling data without having to develop their own tool or having to majorly restructure their textual data. <a href=\"https://github.com/ThomasK81/tidyToPan/tree/1.0.0#installing-it\">Installation instructions</a>. <a href=\"https://vuw.libcal.com/event/5293274\">Book here</a>  "
   subtype: workshop
   speakers: [35]
@@ -316,7 +316,7 @@
 
 -
   id: 047
-  title: "Research Portfolio website (2-hour session)"
+  title: "Research Portfolio website (2hours)"
   description: "Learn how to create a attractive, functional website to showcase your research career and outputs using GitHub and wowchemy. Some familiarity with git, HTML and CSS will be beneficial, but not necessary. <a href=\"https://vuw.libcal.com/event/5293388/\">Book here</a> "
   subtype: workshop
   speakers: [38]
