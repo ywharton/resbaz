@@ -123,7 +123,7 @@
 - 
   id: 11
   name: "Jay"
-  surname: "Gattusso"
+  surname: "Gattuso"
   company: "National Library Of New Zealand"
   title: "Digital Preservation Analyst"
   bio: ""
@@ -253,7 +253,7 @@
   company: "Centre for eResearch"
   title: "eResearch Solutions Specialist"
   bio: "Mike is an eResearch Solutions Specialist at the Centre for eResearch at the University of Auckland. Formerly an atomic astrophysicist, Mike now uses his experience in research and in Python to help develop instrument data infrastructure and visualisation tools for the university."
-  thumbnailUrl: "to_be_announced1.png"
+  thumbnailUrl: "mike.png"
   rockstar: false 
   ribbon:
     - {abbr: "CeR", title: "Centre for eResearch", url: "https://eresearch.auckland.ac.nz"}
@@ -412,7 +412,7 @@
   company: "ESR"
   title: "Bioinformatician"
   bio: "I’m a bioinformatician at ESR (Institute of Environmental Science and Research). I wrangle large human genomic data which demands I use workflow languages."
-  thumbnailUrl: "to_be_announced2.png"
+  thumbnailUrl: "Leah.kemp.jpeg"
   rockstar: false 
   ribbon:
     - {abbr: "ESR", title: "The Institute of Environmental Science and Research", url: "https://www.esr.cri.nz/"}
@@ -577,3 +577,39 @@
 #   rockstar: false
 #   ribbon:
 #     - {abbr: "Arts", title: "School of Social Sciences, Faculty of Arts", url: "https://www.auckland.ac.nz/en/arts/about-the-faculty/school-of-social-sciences.html"}
+
+-
+  id: 53
+  name: "Andre"
+  surname: "Geldenhuis"
+  company: "Centre for Academic Development"
+  title: "Research Software engineer"
+  bio: "A research software engineer based in Victoria University of Wellington's Centre for Academic, Andre works with academics and post-graduate students to deliver high-technology research and teaching outcomes and solutions."
+  thumbnailUrl: "andre.geldenhuis.jpg"
+  rockstar: false 
+  ribbon:
+    - {abbr: "VUW", title: "Centre for Academic Development, Victoria University of Wellington", url: "https://www.wgtn.ac.nz/"}
+
+- 
+  id: 54
+  name: "Callum"
+  surname: "Walley"
+  company: "NeSI"
+  title: "Application Support Analyst"
+  bio: "Engineering Applications Support at New Zealand eScience Infrastructure (NeSI), Software Carpentry Instructor."
+  thumbnailUrl: "to_be_announced1.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}
+
+- 
+  id: 55
+  name: "Eirian"
+  surname: "Perkins"
+  company: "NeSI"
+  title: "Analyst Programmer"
+  bio: "Also a Doctoral Candidate - Doctor of Philosophy in Biological Sciences, Faculty of Science University of Auckland, and Software Carpentry Instructor."
+  thumbnailUrl: "to_be_announced2.png"   
+  rockstar: false
+  ribbon:
+    - {abbr: "NeSI", title: "New Zealand eScience Infrastructure", url: "www.nesi.org.nz "}

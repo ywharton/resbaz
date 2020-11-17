@@ -122,8 +122,15 @@
 
 -
   id: 011
-  title: "Introduction to Linux command line"
-  description: "The Linux command line is a text interface to your computer. Often referred to as the shell, terminal, console, prompt or various other names, it can give the appearance of being complex and confusing to use. In this session Anita will cover the basics to get you started. <a href=\"https://www.eventbrite.com/e/introduction-to-linux-commandline-tickets-128806001217/\">Book here</a> "
+  title: "Getting started with the bash shell"
+  description: "An introduction to using the linux command-line, with one of the popular shells: the bash shell.<br /><br /> 
+  We'll cover navigating the filesystem, moving files around, working with file permissions, finding files, bash history, and more if there is time.<br /><br /> 
+  This demonstration will be done on the linux operating system (OS):to be able to follow along, you should have access to a bash shell from your own computer, either<br /><br /> 
+  * directly on a linux operating system<br /><br /> 
+  * using a terminal on a Mac,<br /><br /> 
+  * or on a Windows OS, using<br /><br /> 
+  - the Windows Subsystem for Linux (see https://docs.microsoft.com/en-us/windows/wsl/install-win10),<br /><br /> 
+  - using a bootable version of Ubuntu on a usb drive: (see <a href=\"https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started/\">here</a>). <a href=\"https://www.eventbrite.com/e/introduction-to-linux-commandline-tickets-128806001217/\">Book here</a> "
   subtype: workshop
   speakers: [21]
   complexity: "Beginner" 
@@ -402,10 +409,31 @@
 #   speakers: [21]
 #   complexity: "All welcome" 
 
-# -
-#   id: 060
-#   title: "Software Carpentry - taster session (90mins)"
-#   description: "<a href=\"https://www.eventbrite.com/e/software-carpentry-taster-session-90mins-resbaz-2020-tickets-128948724105/\">Book here</a>"
-#   subtype: workshop
-#   speakers: []
-#   complexity: "All welcome" 
+-
+  id: 060
+  title: "Bash scripting for researchers (90mins)"
+  description: "Bash is a powerful tool that enables users to quickly automate tasks that would otherwise be labour intensive. We will demonstrate how you can use Bash to write time and effort-saving computer scripts. A little Bash knowledge goes a long way.<p>
+  What do we mean by computer scripts? <p> If you have a collection of commands you'd like to run together, you can combine them in a script and run them all at once. You can also pass arguments to the script so that it can operate on different files or other input. A script is a handy way to:<br>
+        •        Save yourself typing on a group of commands you often run together.<p>
+        •        Remember complicated commands, so you don't have to look up, or risk forgetting, the particular syntax each time you use it.<p>
+        •        Use control structures, like loops and case statements, to allow your scripts to do complex jobs. Writing these structures into a script can make them more convenient to type and easier to read.<p>
+  This session is open to students and researchers from all domains and will build upon the content covered in the introduction to Linux command-line session happening online on 23 Nov. <a href=\"https://www.eventbrite.com/e/software-carpentry-taster-session-90mins-resbaz-2020-tickets-128948724105/\">Book here</a>"
+  subtype: workshop
+  speakers: [54,55]
+  complexity: "All welcome" 
+
+-
+  id: 061
+  title: "Research data collection & surveys with REDCap - an overview"
+  description: "A brief overview of REDCap, a software tool which can help you create and manage research databases and participant surveys with sensitive data. <a href=\"https://auckland.zoom.us/j/99485421121?pwd=NlFWRGNnMzZRb0pWNDI0NVZCa3dlZz09/\">Zoom link</a> "
+  subtype: workshop
+  speakers: [19]
+  complexity: "All welcome" 
+
+-
+  id: 062
+  title: "Creating Professional LaTeX Reports Without Losing Hair (2hours)"
+  description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-2-hours-tickets-129423319633/\">Book here</a> "
+  subtype: workshop
+  speakers: [55]
+  complexity: "All welcome" 
