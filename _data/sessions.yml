@@ -261,8 +261,8 @@
 
 -
   id: 041
-  title: "Linux command line - Beyond the basics"
-  description: "<a href=\"https://www.eventbrite.com/e/linux-command-line-beyond-the-basics-tickets-128962252569/\">Book here</a>"
+  title: "Linux command line - beyond the basics/ Bash shell - some more basic tools"
+  description: "In this second session, you'll explore a few basic but powerful command-line tools that the linux shell provides<p>regular expressions:   grep, wildcards<p>sed:   stream editing with regular expressions<p> awk:  handling formatted data - either data files or output of bash commands.<p> We'll illustrate using these at the command line and as part of bash scripts. <a href=\"https://www.eventbrite.com/e/linux-command-line-beyond-the-basics-tickets-128962252569/\">Book here</a>"
   subtype: workshop
   speakers: [21]
   complexity: "Intermediate" 
@@ -436,4 +436,12 @@
   description: "Go beyond the basics in this workshop. You will learn how LaTeX documents can be split up into styles, pages, appendices, etc. so that you can work in manageable chunks. This workshop will demonstrate several useful LaTeX packages and show you how to create documents without Overleaf. Prior knowledge in Bash and LaTeX is helpful, but not required. A template will be provided for participants. <a href=\"https://www.eventbrite.com/e/creating-professional-latex-reports-without-losing-hair-2-hours-tickets-129423319633/\">Book here</a> "
   subtype: workshop
   speakers: [55]
+  complexity: "All welcome" 
+
+-
+  id: 063
+  title: "Performance - Music performance and project showcase"
+  description: "In this performance, 20+ year old 'e-waste' video and audio circuits are removed from the waste stream and resuscitated, miss-wired, and 'incorrectly' interconnected. The results of this process create audio-visual signals with 'sentient' or 'generative' characteristics. The voices and cinema of these discarded circuits are broadcast and redistributed through this YouTube Live feed. Interaction: If you're watching this from a computer you can also access an in-progress interactive user interface where you can influence this system. The ultra ultra pre-beta version of that (in fluctuating states of (dis)repair) is <a href=\"https://trash-to-web.herokuapp.com/follow.html\">located here </a>."
+  subtype: workshop
+  speakers: [33]
   complexity: "All welcome" 
