@@ -44,12 +44,12 @@ If you do not wish to be recorded, please consider the following measures:
 
 If someone indicates that they do not wish to be recorded please consider how you interact with them so as not to identify them.
 
-##### Photography/video/audio recording policy
 We will be taking photographs and (potentially) videos of sessions (formal and social) at ResBaz. These images and recordings may be used to promote the conference and other activities by the Auckland Research Bazaar team.
 
 If you do not wish to be photographed, please let the organisers know and obtain a`no photos’ sticker.
 
 If someone indicates that they do not wish to be photographed, respect their wishes and delete any photographs you have taken that include them. This includes group shots and photographs where they appear in the background.
+
 
 ##### Reporting/blogging/social media policy
 We encourage all ResBaz attendees to join the conversation on Twitter before, during and after the conference. We also encourage attendees to discuss their experiences by blogging or writing pieces for their home institution blogs and newsletters if appropriate. We will be covering the conference by live-tweeting and blogging. Attendees are reminded that the Code of Conduct and Anti-Harassment policy extend to online interactions associated with the Research Bazaar.
@@ -81,7 +81,7 @@ Harassment includes:
 
 If a participant engages in harassing behaviors, the anti-harassment officers may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, participants to contact police or crisis services, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact <a href = "mailto: researchdata@auckland.ac.nz">researchdata@auckland.ac.nz</a> We will assist participants to contact police or crisis.
 
 We value your attendance. We expect participants to follow these rules throughout their engagement with the Research Bazaar.
 
