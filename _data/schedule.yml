@@ -165,17 +165,17 @@
       sessionIds: [043, 051]
     }
 
-    - {
-      startTime: "15:30",
-      endTime: "16:00",
-      sessionIds: [200]
-    }
+    # - {
+    #   startTime: "15:30",
+    #   endTime: "16:00",
+    #   sessionIds: [200]
+    # }
     
-    - {
-      startTime: "16:00",
-      endTime: "17:00",
-      sessionIds: [300]
-    }
+    # - {
+    #   startTime: "16:00",
+    #   endTime: "17:00",
+    #   sessionIds: [300]
+    # }
 ###Thursday
 - 
   date: "2020-11-26"
@@ -286,10 +286,10 @@
       endTime: "15:30",
       sessionIds: [052, 054]
     }
-    - {
-      startTime: "15:00",
-      endTime: "16:00",
-      sessionIds: [300]
-    }
+    # - {
+    #   startTime: "15:00",
+    #   endTime: "16:00",
+    #   sessionIds: [300]
+    # }
     
     
