@@ -57,7 +57,7 @@
 - 
   id: 400
   title: "Welcome to ResBaz 2020 : Pick n Mix"
-  description: "A brief welcome to the Research Bazaar NZ 2020 - a collaborative effort to bring free, open, online researcher skills sessions to the NZ research community. Feel free to drop-in and ask questions. <a href=\"https://auckland.zoom.us/j/99720152410?pwd=Kzhsa09yTW5oOThUVUdXZ1dHTVBWdz09/\">Zoom link</a>"
+  description: "A brief welcome to the Research Bazaar NZ 2020 - a collaborative effort to bring free, open, online researcher skills sessions to the NZ research community. Feel free to drop-in and ask questions. <a href=\"https://auckland.zoom.us/j/99720152410?pwd=Kzhsa09yTW5oOThUVUdXZ1dHTVBWdz09\">Zoom link</a>"
   speakers: [14,38]
   # hidden: true
 
