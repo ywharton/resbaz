@@ -56,21 +56,24 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "ResBaz 2020: <typeout>"
+#heroTitle: "ResBaz 2020 <typeout>"
+heroTitle: "ResBaz 2020 is finished."
 eventDate: ""
-typeoutTextValues: "'Pick n Mix'"
-typeoutFallback: "'Pick n Mix'"
+typeoutTextValues: " is finished."
+typeoutFallback: "' is finished.'"
 heroButtons:
- - {link: "", text: "Online sessions: 23-27 November"}
+ - {link: "", text: "Hope you see you in 2021"}
 
 # About Block
 aboutTitle: "About ResBaz 2020 'Pick n Mix' Edition"
 aboutSubtitle: "Conference"
-aboutText: "<p>The <em>Research Bazaar</em> is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the usual 3-day cohort event full of digital skills workshops, social activities and amazing food. However, we’ve had to adapt the event this year!</p>
+aboutText: "<p>The <em>Research Bazaar</em> is a worldwide festival promoting the digital literacy emerging at the centre of modern research. We LOVE the usual multi-day cohort event full of digital skills workshops, social activities that build communities, and amazing food. However, the 2020 circumstances saw the delivery of a ResBaz <em>pick and mix</em> online version for Aotearoa New Zealand researchers and postgraduate research students.</p>
 
-<p>Our ResBaz 2020 will offer an opportunity for Aotearoa New Zealand researchers come together virtually to up-skill in digital research tools and skills through a series of brief online workshops sessions - a ‘Pick n Mix’. The <a href=\"https://resbaz.auckland.ac.nz/schedule/\">schedule</a> this year is intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across disciplines.</p>
+<p>ResBaz 2020: Pick and Mix, 23-27 November, was a collaboration between the University of Auckland and Victoria University of Wellington. We had 500 individuals register for one or more of  the 37 sessions.</p>
 
-<p>A collaboration between the University of Auckland and Victoria University of Wellington, we welcome researchers at ALL levels from ALL disciplines to <a href=\"https://resbaz.auckland.ac.nz/sessions/\">register for individual sessions</a>. Research technologists who support researchers to do their job should also come along!</p>"
+<p>Thank you for participation and feedback. Published presentation slides and links are available <a href=\"https://auckland.figshare.com/collections/ResBaz_2020_Pick_n_Mix_23-27_November_Online_/5222219/1\">here</a> </p>
+
+<p> <b>Interested in ResBaz in 2021?</b> Look out for information on this website next year or email: <a href=\"mailto:researchdata@auckland.ac.nz\">researchdata@auckland.ac.nz</a> </p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
