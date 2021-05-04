@@ -11,15 +11,15 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "ResBaz Auckland 2019"
-email: "researchdata@auckland.ac.nz"
-description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
+title: "ResBaz Yvette 2021"
+email: "y.wharton@auckland.ac.nz"
+description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the centre of modern research."
 baseurl: ""
-url: "http://uoa-eresearch.github.io"
+url: "http://ywharton.github.io/resbaz"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+# googleAnalyticsTrackingId: "UA-43643469-5"
+# googleAnalyticsSiteUrl: "gdg-x.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "CeR"
@@ -37,7 +37,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "mailto:researchdata@auckland.ac.nz"
+c4pUrl: "mailto:y.wharton@auckland.ac.nz"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -56,18 +56,18 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "ResBaz : <typeout>"
-eventDate: "July 10-12"
-typeoutTextValues: '"Auckland", "2019"'
-typeoutFallback: "2019"
+eventDate: "still working on dates for "
+typeoutTextValues: '"Auckland", "2021"'
+typeoutFallback: "2021"
 heroButtons:
  - {link: "", text: "Apply"}
 
 # About Block
 aboutTitle: "About ResBaz Auckland"
 aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2019, events will be held at a number of university campuses around the globe.</p>
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2021, events will be held at a number of university campuses around the globe.</p>
 
-<p>Hosted by the University of Auckland, the 2019 Auckland Research Bazaar is a (free-of-charge) 3-day intensive conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Hosted by the University of Auckland, the 2021 Auckland Research Bazaar is a (free-of-charge) 3-day intensive conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
 
